@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeWantWaste-Code-Challenge/static/css/main.13acb6e6.css",
+    "main.js": "/WeWantWaste-Code-Challenge/static/js/main.8607acc6.js",
+    "static/js/453.b39c21b2.chunk.js": "/WeWantWaste-Code-Challenge/static/js/453.b39c21b2.chunk.js",
+    "index.html": "/WeWantWaste-Code-Challenge/index.html",
+    "main.13acb6e6.css.map": "/WeWantWaste-Code-Challenge/static/css/main.13acb6e6.css.map",
+    "main.8607acc6.js.map": "/WeWantWaste-Code-Challenge/static/js/main.8607acc6.js.map",
+    "453.b39c21b2.chunk.js.map": "/WeWantWaste-Code-Challenge/static/js/453.b39c21b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13acb6e6.css",
+    "static/js/main.8607acc6.js"
+  ]
+}
